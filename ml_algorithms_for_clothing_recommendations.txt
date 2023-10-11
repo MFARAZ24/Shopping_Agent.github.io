@@ -1,0 +1,8 @@
+1. Building an AI-Powered Outfit Recommendation System With Dataiku: https://blog.dataiku.com/outfit-recommendation-system
+2. Towards Fashion Recommendation: An AI System for Clothing Data: https://link.springer.com/chapter/10.1007/978-3-030-49186-4_36
+3. Deep Learning in Fashion (Part 3): Clothing Matching Tutorial: https://indicodata.ai/blog/fashion-matching-tutorial/
+4. Fashion Recommendation Systems, Models and Methods: A Review: https://www.mdpi.com/2227-9709/8/3/49/htm
+5. An Adaptive Recommendation Algorithm of Intelligent Clothing: https://www.hindawi.com/journals/misy/2022/3334047/
+6. Smart Clothing Recommendation System with Deep Learning: https://ieeexplore.ieee.org/document/8932738/
+7. The State of Recommender Systems for Fashion in 2020: https://towardsdatascience.com/the-state-of-recommender-systems-for-fashion-in-2020-180b3ddb392f
+8. Deep Learning for Clothing Style Recognition Using YOLOv5: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9607400/

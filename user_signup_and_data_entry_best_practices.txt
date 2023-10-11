@@ -1,0 +1,10 @@
+1. Keep forms simple and concise
+2. Use clear and descriptive labels
+3. Group related fields together
+4. Provide helpful error messages
+5. Use appropriate input types and validation
+6. Offer social media login options
+7. Align text to the left
+8. Prioritize mobile-friendly design
+9. Use clear call-to-action buttons
+10. Ensure data privacy and security

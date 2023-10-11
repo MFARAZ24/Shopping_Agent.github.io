@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Data Entry - Inventory Manager</title>
+</head>
+<body>
+<h1>Data Entry</h1>
+<form>
+<label for='item_name'>Item Name:</label>
+<input type='text' id='item_name' name='item_name' required>
+<br>
+<label for='item_category'>Category:</label>
+<select id='item_category' name='item_category' required>
+<option value=''>Select a category</option>
+<option value='tops'>Tops</option>
+<option value='bottoms'>Bottoms</option>
+<option value='shoes'>Shoes</option>
+<option value='accessories'>Accessories</option>
+</select>
+<br>
+<label for='item_image'>Upload Image:</label>
+<input type='file' id='item_image' name='item_image' accept='image/*'>
+<br>
+<input type='submit' value='Add Item'>
+</form>
+</body>
+</html>

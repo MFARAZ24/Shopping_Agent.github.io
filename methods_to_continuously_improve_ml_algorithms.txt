@@ -1,0 +1,7 @@
+1. A Beginners Guide To Boosting Machine Learning Algorithms: https://www.edureka.co/blog/boosting-machine-learning/
+2. How to apply continual learning to your machine learning models: https://towardsdatascience.com/how-to-apply-continual-learning-to-your-machine-learning-models-4754adcd7f7f
+3. What are the tools to speed up the running time of machine learning algorithms: https://datascience.stackexchange.com/questions/28418/what-are-the-tools-to-speed-up-the-running-time-of-machine-learning-algorithms
+4. Is Your Machine Learning Algorithm Taking Forever to Run?: https://medium.com/dataseries/is-your-machine-learning-algorithm-taking-forever-to-run-2dbf2dbce2fb
+5. How to Improve ML Models [Lessons From Ex-Amazon]: https://neptune.ai/blog/improving-ml-model-performance
+6. How to Choose an Optimization Algorithm: https://machinelearningmastery.com/tour-of-optimization-algorithms/
+7. Optimization algorithms in machine learning: https://medium.com/analytics-vidhya/optimization-algorithms-in-machine-learning-6493c7badb6e

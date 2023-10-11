@@ -1,0 +1,6 @@
+1. Choose a suitable ML algorithm based on the resources found
+2. Collect and preprocess the data for training and testing
+3. Train the ML model using the preprocessed data
+4. Evaluate the performance of the trained model
+5. Fine-tune the model for better performance
+6. Implement the ML model in the website for clothing suggestions

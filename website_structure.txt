@@ -1,0 +1,6 @@
+1. Home Page
+2. Signup/Login Page
+3. Dashboard
+4. Inventory Management
+5. Clothing Suggestions
+6. Customer Support
